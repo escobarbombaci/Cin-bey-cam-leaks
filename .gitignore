@@ -1,0 +1,12 @@
+pycache/
+*.pyc
+*.db
+*.log
+.env
+venv/
+.venv/
+.vscode/
+.idea/
+.DS_Store
+mise.toml
+railway.json
